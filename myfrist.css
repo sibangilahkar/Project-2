@@ -1,0 +1,160 @@
+/* body{background-color:black;} */
+.mainscreen{background-color: white;
+             height: 800px;
+              width: 460px;
+               margin-left: 30%;
+            margin-top: 50px;}
+
+
+.BOX {background-color: #171780;
+     height: 77px;}
+
+     .BOX i {color:white;
+        font-size: 20px;}
+     
+
+.header{
+         display: flex;
+         flex-direction: row;
+          flex-wrap: wrap;}
+                                   
+
+.head{
+    /* border: 1px solid black; */
+}
+
+
+.name h6 {
+    font-size: 21px;
+    width: 281px;
+    margin-left: 28px;
+    margin-top: 13px;
+    font-weight: bold;
+}
+
+
+.thumsup{position: absolute;
+    margin-left: 305px;
+    background-color: rgb(245, 245, 29);
+    width: 45px;
+    margin-top: 36px;
+    padding-left: 4px;
+    color: white;
+}
+
+.thumsup i {
+            color: white;  }
+
+
+
+
+
+.eight{
+    margin-left: 93px;
+}
+
+          .eight button {margin-top: 10px;
+            }
+   .btn-primary{background-color: #171780!important;}       
+ 
+
+.Genius{
+   
+    margin-left: 30px;
+}
+
+
+
+.image{
+    /* border: 1px solid black; */
+ height: 312px; 
+}
+
+.photobox{border: 1px solid whitesmoke;}
+
+
+.photobox img{
+     height:100% ;
+     width:100%;  
+}
+
+
+.one  {width: 210px;}
+
+.two {width: 223px;}
+
+.three {width: 145px;}
+
+.four {width: 150px;}
+
+.five{width: 138px;}
+
+
+
+
+
+
+.facility{ font-size: 10px;
+          height: 120px;
+           width: 100px;
+           align-items: center; 
+           /* border: 1px solid black; */
+         }
+
+
+.rounded-circle { 
+     /* border: 1px solid black; */
+     color: rgb(83, 82, 82);
+     height: 55px;
+     width: 55px; 
+                margin: 10px;
+                background-color: rgb(238, 234, 234);} 
+
+    .rounded-circle i {
+        font-size: 27px;
+        margin-left: 13px;
+        margin-top: 11px;
+}
+    
+
+
+.pe{text-align: center;
+    font-family: sans-serif;
+    font-weight: 700;
+    font-size: 11px;
+    margin-top: 23px;}
+
+
+    .btn-success{background-color:#388407;}
+
+
+
+    .card{
+        /* border: 1px solid black; */
+        height: 153px;  
+    }
+
+
+    .card .butt{
+        /* border: 1px solid black; */
+        height: 33px;
+    margin-top: -12px;
+    }
+
+    .card button {
+        height: inherit;
+        border-radius: 4px;
+    
+    }
+    
+
+    .last{
+        /* border: 1px solid black; */
+        height: 118px;
+        font-size: 12px;
+    }
+
+
+    .last p {
+        margin-bottom: 6px;
+    }
